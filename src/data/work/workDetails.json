@@ -1,0 +1,167 @@
+[
+    
+    {
+        "id": 1,
+        "homeImage": "./images/services/peb.jpg",
+        "image": "images/project/project-1.jpg",
+        "title": "Pre Engineered Buildings",
+        "date": "28 Sep 2007",
+        "client": "HighGrove Partners",
+        "categories": ["app", "development"],
+        "awards": ["2015 Digital World Awards 2016 Finale Awards"],
+        "excerpt": "Quickly analyzing the digital business landscape, we create effective action plans and design optimal strategies.",
+        "body": ["<p>Digital marketing encompasses all marketing efforts that use an electronic device or the internet. Businesses leverage digital channels such as search engines, social media, email, and their websites to connect with current and prospective customers.</p>", "<p>It is. In fact, “constant” internet usage among adults increased by 5% in just the last three years, according to Pew Research. And although we say it a lot, the way people shop and buy really has changed along with it — meaning offline marketing isn’t as effective as it used to be.</p>", "<p>Marketing has always been about connecting with your audience in the right place and at the right time. Today, that means you need to meet them where they are already spending time: on the internet. (Source: blog.hubspot.com)</p>"],
+        "btn": {
+            "text": "Go to link",
+            "link": "/"
+        },
+        "largeImage": "images/project/work-details-1.jpg",
+        "subContent": {
+            "title": "Digital Marketing.",
+            "text": "Marketing has always been about connecting with your audience in the right place and at the right time. Today, that means you need to meet them where they are already spending time: on the internet. A seasoned inbound marketer might say inbound marketing and digital marketing are virtually the same thing, but there are some minor differences. And conversations with marketers and business owners in the U.S., U.K., Asia, Australia, and New Zealand, I've learned a lot about how those small differences are being observed across the world."
+        },
+        "gallery": {
+            "imageOne": "images/project/work-details-2.jpg",
+            "imageTwo": "images/project/work-details-3.jpg",
+            "imageThree": "images/project/work-details-4.jpg"
+        }
+    },
+    
+    {
+        "id": 2,
+        "homeImage": "./images/services/metal_building.jpg",
+        "image": "images/project/project-2.jpg",
+        "title": "Metal Building",
+        "date": "28 Sep 2007",
+        "client": "HighGrove Partners",
+        "categories": ["marketing", "software"],
+        "awards": ["2015 Digital World Awards 2016 Finale Awards"],
+        "excerpt": "Quickly analyzing the digital business landscape, we create effective action plans and design optimal strategies.",
+        "body": ["<p>Digital marketing encompasses all marketing efforts that use an electronic device or the internet. Businesses leverage digital channels such as search engines, social media, email, and their websites to connect with current and prospective customers.</p>", "<p>It is. In fact, “constant” internet usage among adults increased by 5% in just the last three years, according to Pew Research. And although we say it a lot, the way people shop and buy really has changed along with it — meaning offline marketing isn’t as effective as it used to be.</p>", "<p>Marketing has always been about connecting with your audience in the right place and at the right time. Today, that means you need to meet them where they are already spending time: on the internet. (Source: blog.hubspot.com)</p>"],
+        "btn": {
+            "text": "Go to link",
+            "link": "/"
+        },
+        "largeImage": "images/project/work-details-1.jpg",
+        "subContent": {
+            "title": "Digital Marketing.",
+            "text": "Marketing has always been about connecting with your audience in the right place and at the right time. Today, that means you need to meet them where they are already spending time: on the internet. A seasoned inbound marketer might say inbound marketing and digital marketing are virtually the same thing, but there are some minor differences. And conversations with marketers and business owners in the U.S., U.K., Asia, Australia, and New Zealand, I've learned a lot about how those small differences are being observed across the world."
+        },
+        "gallery": {
+            "imageOne": "images/project/work-details-2.jpg",
+            "imageTwo": "images/project/work-details-3.jpg",
+            "imageThree": "images/project/work-details-4.jpg"
+        }
+    },
+
+    {
+        "id": 3,
+        "homeImage": "./images/services/mezzanine.jpg",
+        "image": "images/project/project-3.jpg",
+        "title": "Mezzanine",
+        "date": "28 Sep 2007",
+        "client": "HighGrove Partners",
+        "categories": ["app", "software", "marketing"],
+        "awards": ["2015 Digital World Awards 2016 Finale Awards"],
+        "excerpt": "Quickly analyzing the digital business landscape, we create effective action plans and design optimal strategies.",
+        "body": ["<p>Digital marketing encompasses all marketing efforts that use an electronic device or the internet. Businesses leverage digital channels such as search engines, social media, email, and their websites to connect with current and prospective customers.</p>", "<p>It is. In fact, “constant” internet usage among adults increased by 5% in just the last three years, according to Pew Research. And although we say it a lot, the way people shop and buy really has changed along with it — meaning offline marketing isn’t as effective as it used to be.</p>", "<p>Marketing has always been about connecting with your audience in the right place and at the right time. Today, that means you need to meet them where they are already spending time: on the internet. (Source: blog.hubspot.com)</p>"],
+        "btn": {
+            "text": "Go to link",
+            "link": "/"
+        },
+        "largeImage": "images/project/work-details-1.jpg",
+        "subContent": {
+            "title": "Digital Marketing.",
+            "text": "Marketing has always been about connecting with your audience in the right place and at the right time. Today, that means you need to meet them where they are already spending time: on the internet. A seasoned inbound marketer might say inbound marketing and digital marketing are virtually the same thing, but there are some minor differences. And conversations with marketers and business owners in the U.S., U.K., Asia, Australia, and New Zealand, I've learned a lot about how those small differences are being observed across the world."
+        },
+        "gallery": {
+            "imageOne": "images/project/work-details-2.jpg",
+            "imageTwo": "images/project/work-details-3.jpg",
+            "imageThree": "images/project/work-details-4.jpg"
+        }
+    },
+
+    {
+        "id": 4,
+        "homeImage": "./images/services/EOT.png",
+        "image": "images/project/project-4.jpg",
+        "title": "EOT",
+        "date": "28 Sep 2007",
+        "client": "HighGrove Partners",
+        "categories": ["development", "ux design", "marketing"],
+        "awards": ["2015 Digital World Awards 2016 Finale Awards"],
+        "excerpt": "Quickly analyzing the digital business landscape, we create effective action plans and design optimal strategies.",
+        "body": ["<p>Digital marketing encompasses all marketing efforts that use an electronic device or the internet. Businesses leverage digital channels such as search engines, social media, email, and their websites to connect with current and prospective customers.</p>", "<p>It is. In fact, “constant” internet usage among adults increased by 5% in just the last three years, according to Pew Research. And although we say it a lot, the way people shop and buy really has changed along with it — meaning offline marketing isn’t as effective as it used to be.</p>", "<p>Marketing has always been about connecting with your audience in the right place and at the right time. Today, that means you need to meet them where they are already spending time: on the internet. (Source: blog.hubspot.com)</p>"],
+        "btn": {
+            "text": "Go to link",
+            "link": "/"
+        },
+        "largeImage": "images/project/work-details-1.jpg",
+        "subContent": {
+            "title": "Digital Marketing.",
+            "text": "Marketing has always been about connecting with your audience in the right place and at the right time. Today, that means you need to meet them where they are already spending time: on the internet. A seasoned inbound marketer might say inbound marketing and digital marketing are virtually the same thing, but there are some minor differences. And conversations with marketers and business owners in the U.S., U.K., Asia, Australia, and New Zealand, I've learned a lot about how those small differences are being observed across the world."
+        },
+        "gallery": {
+            "imageOne": "images/project/work-details-2.jpg",
+            "imageTwo": "images/project/work-details-3.jpg",
+            "imageThree": "images/project/work-details-4.jpg"
+        }
+    },
+
+    {
+        "id": 5,
+        "homeImage": "./images/services/warehouse.jpg",
+        "image": "images/project/project-5.jpg",
+        "title": "Warehouse",
+        "date": "28 Sep 2007",
+        "client": "HighGrove Partners",
+        "categories": ["app", "ux design"],
+        "awards": ["2015 Digital World Awards 2016 Finale Awards"],
+        "excerpt": "Quickly analyzing the digital business landscape, we create effective action plans and design optimal strategies.",
+        "body": ["<p>Digital marketing encompasses all marketing efforts that use an electronic device or the internet. Businesses leverage digital channels such as search engines, social media, email, and their websites to connect with current and prospective customers.</p>", "<p>It is. In fact, “constant” internet usage among adults increased by 5% in just the last three years, according to Pew Research. And although we say it a lot, the way people shop and buy really has changed along with it — meaning offline marketing isn’t as effective as it used to be.</p>", "<p>Marketing has always been about connecting with your audience in the right place and at the right time. Today, that means you need to meet them where they are already spending time: on the internet. (Source: blog.hubspot.com)</p>"],
+        "btn": {
+            "text": "Go to link",
+            "link": "/"
+        },
+        "largeImage": "images/project/work-details-1.jpg",
+        "subContent": {
+            "title": "Digital Marketing.",
+            "text": "Marketing has always been about connecting with your audience in the right place and at the right time. Today, that means you need to meet them where they are already spending time: on the internet. A seasoned inbound marketer might say inbound marketing and digital marketing are virtually the same thing, but there are some minor differences. And conversations with marketers and business owners in the U.S., U.K., Asia, Australia, and New Zealand, I've learned a lot about how those small differences are being observed across the world."
+        },
+        "gallery": {
+            "imageOne": "images/project/work-details-2.jpg",
+            "imageTwo": "images/project/work-details-3.jpg",
+            "imageThree": "images/project/work-details-4.jpg"
+        }
+    },
+
+    {
+        "id": 6,
+        "homeImage": "./images/services/cold_storage.jpg",
+        "image": "images/project/project-6.jpg",
+        "title": "Cold Storage",
+        "date": "28 Sep 2007",
+        "client": "HighGrove Partners",
+        "categories": ["app", "ux design", "software"],
+        "awards": ["2015 Digital World Awards 2016 Finale Awards"],
+        "excerpt": "Quickly analyzing the digital business landscape, we create effective action plans and design optimal strategies.",
+        "body": ["<p>Digital marketing encompasses all marketing efforts that use an electronic device or the internet. Businesses leverage digital channels such as search engines, social media, email, and their websites to connect with current and prospective customers.</p>", "<p>It is. In fact, “constant” internet usage among adults increased by 5% in just the last three years, according to Pew Research. And although we say it a lot, the way people shop and buy really has changed along with it — meaning offline marketing isn’t as effective as it used to be.</p>", "<p>Marketing has always been about connecting with your audience in the right place and at the right time. Today, that means you need to meet them where they are already spending time: on the internet. (Source: blog.hubspot.com)</p>"],
+        "btn": {
+            "text": "Go to link",
+            "link": "/"
+        },
+        "largeImage": "images/project/work-details-1.jpg",
+        "subContent": {
+            "title": "Digital Marketing.",
+            "text": "Marketing has always been about connecting with your audience in the right place and at the right time. Today, that means you need to meet them where they are already spending time: on the internet. A seasoned inbound marketer might say inbound marketing and digital marketing are virtually the same thing, but there are some minor differences. And conversations with marketers and business owners in the U.S., U.K., Asia, Australia, and New Zealand, I've learned a lot about how those small differences are being observed across the world."
+        },
+        "gallery": {
+            "imageOne": "images/project/work-details-2.jpg",
+            "imageTwo": "images/project/work-details-3.jpg",
+            "imageThree": "images/project/work-details-4.jpg"
+        }
+    }
+    
+]
+
+
