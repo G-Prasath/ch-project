@@ -15,7 +15,7 @@ import BrandContainer from "../../container/Brand/BrandContainer.js";
 const Home = () => {
   return (
     <React.Fragment>
-      <SEO title="Exomac – Business React JS Template" />
+      <SEO title="Chennai Roofings" />
       <Header />
       <IntroSlider />
       <HomeAbout />

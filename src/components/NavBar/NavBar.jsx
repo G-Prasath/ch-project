@@ -24,7 +24,7 @@ const NavBar = () => {
             </span>
             <ul className="sub-menu">
               <li>
-                <NavLink to={process.env.PUBLIC_URL + "/services/peb"}>
+                <NavLink to={process.env.PUBLIC_URL + "/peb"}>
                   <span className="menu-text">Pre Engineered Building</span>
                 </NavLink>
               </li>

@@ -31,53 +31,76 @@ const Header = () => {
         setScroll(window.scrollY);
     };
     return (
-        <Fragment>
-            <div className={`header-section header-transparent sticky-header section ${scroll > headerTop ? "is-sticky" : ""
-                }`}>
-                <div className="header-inner">
-                    <div className="container position-relative">
-                        <div className="row justify-content-between align-items-center">
-
-                            <div className="col-xl-2 col-auto order-0">
-                                <Logo
-                                    image={`${process.env.PUBLIC_URL}/images/logo/logo.png`}
-                                />
-                            </div>
-
-                            <div className="col-auto col-xl d-flex align-items-center justify-content-end order-2 order-xl-1">
-                                <div className="menu-column-area d-none d-xl-block position-static">
-                                    <NavBar />
-                                </div>
-
-                                <div className="header-search-area">
-                                    {/* <HeaderSearch onClick={onSearchHandler} /> */}
-                                    <img src='/images/icons/form.png' width={45} height="auto" alt="Icon" onClick={onSearchHandler} style={{ cursor: 'pointer' }} />
-                                </div>
-
-                                <div className="header-mobile-menu-toggle d-xl-none ms-sm-2">
-                                    <button type="button" className="toggle" onClick={onCanvasHandler}>
-                                        <i className="icon-top"></i>
-                                        <i className="icon-middle"></i>
-                                        <i className="icon-bottom"></i>
-                                    </button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="stickey-cta">
-                        <Link to='tel:'>
-                            <img src="/images/icons/call.png" width={35} height="auto" alt="whatsapp-icon" />
-                        </Link>
-                        <Link to='wa'>
-                           <img src="/images/icons/whatsapp.png" width={35} height="auto" alt="whatsapp" />
-                        </Link>
-                    </div>
+      <Fragment>
+        <div
+          className={`header-section header-transparent sticky-header section ${
+            scroll > headerTop ? "is-sticky" : ""
+          }`}
+        >
+          <div className="header-inner">
+            <div className="container position-relative">
+              <div className="row justify-content-between align-items-center">
+                <div className="col-xl-2 col-auto order-0">
+                  <Logo
+                    image={`${process.env.PUBLIC_URL}/images/logo/logo.png`}
+                  />
                 </div>
+
+                <div className="col-auto col-xl d-flex align-items-center justify-content-end order-2 order-xl-1">
+                  <div className="menu-column-area d-none d-xl-block position-static">
+                    <NavBar />
+                  </div>
+
+                  <div className="header-search-area">
+                    {/* <HeaderSearch onClick={onSearchHandler} /> */}
+                    <img
+                      src="/images/icons/form.png"
+                      width={45}
+                      height="auto"
+                      alt="Icon"
+                      onClick={onSearchHandler}
+                      style={{ cursor: "pointer" }}
+                    />
+                  </div>
+
+                  <div className="header-mobile-menu-toggle d-xl-none ms-sm-2">
+                    <button
+                      type="button"
+                      className="toggle"
+                      onClick={onCanvasHandler}
+                    >
+                      <i className="icon-top"></i>
+                      <i className="icon-middle"></i>
+                      <i className="icon-bottom"></i>
+                    </button>
+                  </div>
+                </div>
+              </div>
             </div>
-            <MobileMenu show={ofcanvasShow} onClose={onCanvasHandler} />
-            <MainSearch show={searchbarShow} onClose={onSearchHandler} />
-        </Fragment>
-    )
+            <div className="stickey-cta">
+              <Link to="tel:7550000206">
+                <img
+                  src="/images/icons/call.png"
+                  width={35}
+                  height="auto"
+                  alt="whatsapp-icon"
+                />
+              </Link>
+              <Link to="wa.me/+917550000206">
+                <img
+                  src="/images/icons/whatsapp.png"
+                  width={35}
+                  height="auto"
+                  alt="whatsapp"
+                />
+              </Link>
+            </div>
+          </div>
+        </div>
+        <MobileMenu show={ofcanvasShow} onClose={onCanvasHandler} />
+        <MainSearch show={searchbarShow} onClose={onSearchHandler} />
+      </Fragment>
+    );
 }
 
 export default Header;
